@@ -1,0 +1,1 @@
+This repo contains a mock Google search results page. Creating this page will provide practice in designing a webpage and improve familiarity with HTML and CSS.
